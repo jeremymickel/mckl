@@ -1,7 +1,7 @@
 mckl
 ====
 
-base64_robo.py
+base64_robofont.py
 
-Useful for converting woffs to base64 for webfont encoding. Run the script and it will ask to open a file, and then prints encoding to output window.
-Requires RoboFab and Numpy. 
+A RoboFont plubin for encoding to base64. Useful for converting woffs for webfont encoding. Run the script and it will ask to open a file, and then prints encoding to output window.
+Requires RoboFab and FontTools. 
